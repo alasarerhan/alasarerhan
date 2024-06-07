@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 - 🔭 I’m currently working on an project detecting and classification of warships from  Images<br>👀 I’m interested in Data Science ,Deep Learning, Military applications of Machine Learning<br>🌱 I’m also currently learning about CRM and Recommendantion Systems<br>⚡I often find myself working on military applications of data science<br><br>
 
@@ -20,6 +21,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alasarerhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
