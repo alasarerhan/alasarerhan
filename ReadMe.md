@@ -25,8 +25,6 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alasarerhan&icon=0&color=0)](https://visitcount.itsvg.in)
