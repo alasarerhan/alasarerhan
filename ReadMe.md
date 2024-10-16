@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 🔭 I’m currently working on an project detecting and classification of warships from  Images<br>👀 I’m interested in Data Science ,Deep Learning, Military applications of Machine Learning<br>🌱 I’m also currently learning about CRM and Recommendantion Systems<br>⚡I often find myself working on military applications of data science<br><br>
+- 🔭 I’m currently working on an project detecting and classification of warships from  Images<br>👀 I’m interested in Data Science ,Deep Learning specially CNN's, and Machine Learning<br>
 
 
 ## 🌐 Socials:
