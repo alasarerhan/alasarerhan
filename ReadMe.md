@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 🔭 I’m currently working on an project detecting and classification of warships from  Images<br>👀 I’m interested in Data Science ,Deep Learning specially CNN's, and Machine Learning<br>
+I am deeply interested in Machine Learning Deep Learning and mostly Computer Vision
 
 
 ## 🌐 Socials:
